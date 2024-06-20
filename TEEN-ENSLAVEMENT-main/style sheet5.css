@@ -1,0 +1,53 @@
+*{
+    margin-left: 15%;
+}
+.row{
+    margin-left:2%;
+    margin-top: 3%;
+    left-pa
+}
+
+.column {
+
+  float:left;
+  width: 20%;
+  padding:10px;
+  margin:10px;
+  height: 350px; 
+  border:2px solid black;
+
+    
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.multi img{
+    overflow: hidden;
+    border-radius: 50%;
+    border:2px solid black;
+}
+.button{
+    padding: 10px 5px;
+    
+}
+.btn{
+    color:#fff00f;
+    text-decoration: none;
+    padding: 6px;
+    border:2px solid black;
+}
+.btn:hover{
+    background-color: brown;
+    color:white;
+}
+h1{
+    color:red;
+    font-size: 280%;
+    
+
+
+}

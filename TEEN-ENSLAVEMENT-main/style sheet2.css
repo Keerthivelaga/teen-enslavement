@@ -1,0 +1,60 @@
+*{
+    margin-left: 0.68%;
+    margin-right:1%;
+
+    padding: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+    font-family: lucida sans-serif;
+}
+p{
+    margin-top: -1%;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin-right: 18%;
+    
+    
+}
+body{
+    background-image:linear-gradient(rgba(247, 242, 242, 0.541),rgba(242, 239, 239, 0.558)), url("https://wallpaperaccess.com/full/1445466.jpg");
+    background-attachment: fixed;
+    background-size:cover;
+    height: 100vh;
+    background-position:center;
+
+}
+
+
+ul{
+    margin-left: 2%;
+    
+}
+ul li{
+    list-style-type:square;
+    margin-right: 2%;
+    margin-right: 18%;
+    
+}
+
+
+    <!--linear-gradient(rgba(38, 36, 36, 0.415),rgba(32, 31, 31, 0.316)),-->
+
+.pic a img{
+    cursor:pointer;
+}
+
+#loading{
+    background: #000 url("load_AdobeExpress.gif") no-repeat center center ;
+    background-size: 150px;
+    height: 100vh;
+    width:100%;
+    position:fixed;
+    z-index: 100000;
+    
+}
+<!--https://paradigmtreatment.com/anxiety-teens-young-adults/social-media-addiction/-->
+<!--https://www.qld.gov.au/health/staying-healthy/atods/drugs/types#ecstasy-->
+

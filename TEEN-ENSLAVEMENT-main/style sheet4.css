@@ -1,0 +1,32 @@
+*{
+    margin: 1;
+    padding 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+body {
+    margin-left:4%;
+    margin-right:4%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body .pic img{
+    
+    width: 100%;
+    height: 95%;
+    cursor: pointer;
+    
+}
+h1{
+    color:orange;
+    user-select: none;
+    
+
+}
+summary{
+    cursor: pointer;
+}
+marquee{
+    color:#fff;
+    background-color: black;
+}

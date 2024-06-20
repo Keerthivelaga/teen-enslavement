@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("https://www.omen.com/content/dam/sites/omen/worldwide/laptops/2022-laptops-2-0/module-01-background@2x.png");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+
+    background-attachment: fixed;
+}
+header
+{
+    font-style: italic;
+    margin:2%;
+}
+
+https://www.video-game-addiction.org/wp-content/uploads/2019/03/man-gaming-on-xbox-1.jpg
+
+.row{
+    margin-left:2%;
+    margin-top: 3%;
+    left-pa
+}
+
+.column {
+
+  float:left;
+  width: 20%;
+  padding:10px;
+  margin:10px;
+  height: 350px; 
+  border:2px solid black;
+
+    
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+body img{
+    overflow: hidden;
+    border-radius: 50%;
+    border:2px solid black;
+}
+.button{
+    padding: 10px 5px;
+    
+}
+.btn{
+    color:red;
+    text-decoration: none;
+    padding: 6px;
+    border:2px solid black;
+}
+.btn:hover{
+    background-color: tomato;
+    color:black;
+}
+h1{
+    color:red;
+    font-size: 280%;
+}
+#loading{
+    background: #000 url("load_AdobeExpress.gif") no-repeat center center;
+    background-size: 150px;
+    height: 100vh;
+    width:100%;
+    position:fixed;
+    z-index: 100000;
+    
+}
